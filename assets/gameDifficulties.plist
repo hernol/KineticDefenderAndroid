@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rocketDuration</key>
+	<integer>4</integer>
+	<key>rocketPeriod</key>
+	<integer>8</integer>
+	<key>rocketDecrementEnergy</key>
+	<integer>10</integer>
+	<key>rocketIncrementPower</key>
+	<integer>8</integer>
+	<key>rocketIncrementPoints</key>
+	<integer>10</integer>
+	<key>asteroidDuration</key>
+	<integer>3</integer>
+	<key>asteroidPeriod</key>
+	<integer>4</integer>
+	<key>asteroidDecrementEnergy</key>
+	<integer>5</integer>
+	<key>asteroidIncrementPower</key>
+	<integer>4</integer>
+	<key>asteroidIncrementPoints</key>
+	<integer>5</integer>
+	<key>maxAsteroids</key>
+	<integer>5</integer>
+	<key>powerUpDuration</key>
+	<integer>2</integer>
+	<key>powerUpCoinPeriod</key>
+	<integer>7</integer>
+	<key>rocket2Duration</key>
+	<integer>4</integer>
+	<key>rocket2Period</key>
+	<integer>5</integer>
+	<key>rocket2DecrementEnergy</key>
+	<integer>12</integer>
+	<key>rocket2IncrementPoints</key>
+	<integer>10</integer>
+	<key>ufoDuration</key>
+	<integer>5</integer>
+	<key>ufoPeriod</key>
+	<integer>10</integer>
+	<key>ufoDecrementEnergy</key>
+	<integer>15</integer>
+	<key>ufoIncrementPoints</key>
+	<integer>3</integer>
+	<key>maxEnemies</key>
+	<integer>3</integer>
+	<key>easy</key>
+	<dict>
+		<key>gameDifficultyMultiplier</key>
+		<real>1</real>
+	</dict>
+	<key>medium</key>
+	<dict>
+		<key>gameDifficultyMultiplier</key>
+		<real>1.6</real>
+	</dict>
+	<key>hard</key>
+	<dict>
+		<key>gameDifficultyMultiplier</key>
+		<real>2.1</real>
+	</dict>
+</dict>
+</plist>
